@@ -7,7 +7,7 @@
 🎥 Watch Project Demo
 
 📷 Dashboard Preview
-![Dashboard Preview](https://github.com/AnsumanRout2004/Churn-Analysis-With-Future-Churn-Prediction-Project/blob/main/IMG-20250904-WA0007%5B1%5D.png)
+![Dashboard Preview]()
 
 ![Dashboard Preview](https://github.com/AnsumanRout2004/Churn-Analysis-With-Future-Churn-Prediction-Project/blob/main/IMG-20250904-WA0009%5B1%5D.png)
 
