@@ -11,7 +11,7 @@
 
 ![Dashboard Preview](https://github.com/AyushmanRout2004/Churn-Analysis-With-Future-Churn-Prediction-Project/blob/main/IMG-20250904-WA0009%5B1%5D.png)
 
-![Dashboard Preview](https://github.com/AnsumanRout2004/Churn-Analysis-With-Future-Churn-Prediction-Project/blob/main/IMG-20250904-WA0008%5B1%5D.png)
+![Dashboard Preview](https://github.com/AyushmanRout2004/Churn-Analysis-With-Future-Churn-Prediction-Project/blob/main/IMG-20250904-WA0008%5B1%5D.png)
 
 
 📌 Project Overview
