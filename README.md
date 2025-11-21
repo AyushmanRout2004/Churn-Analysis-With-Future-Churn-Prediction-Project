@@ -51,7 +51,7 @@ Power BI for building interactive dashboards
 
 📂 Dataset Details
 
-Dataset Size: 50,000+ customer records
+Dataset Size: 1,90,000+ customer records
 
 Columns Include:
 
@@ -79,7 +79,7 @@ High churn among low-engagement and high-support-requests customers
 
 🌟 Project Highlights
 
-📌 Total Customers Analyzed: 50,000+
+📌 Total Customers Analyzed: 1,90,000+
 
 📌 Monthly Churn Rate: ~5-10%
 
