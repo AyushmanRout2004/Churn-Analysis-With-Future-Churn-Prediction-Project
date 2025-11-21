@@ -4,7 +4,6 @@
 
 📌 GitHub Repository Link : https://github.com/AyushmanRout2004/Churn-Analysis-With-Future-Churn-Prediction-Project/tree/main
 
-🎥 Watch Project Demo
 
 📷 Dashboard Preview
 ![Dashboard Preview](https://github.com/AyushmanRout2004/Churn-Analysis-With-Future-Churn-Prediction-Project/blob/main/IMG-20250904-WA0007%5B1%5D.png)
